@@ -5,7 +5,7 @@
 ## How to Run the Project
 
 Steps are as same as the original project.
-As extra you can follow below:
+As extra you can follow below.
 
 - Set Up NodeJS
 	- Install NodeJS and add it to your system's PATH if it's not already done.
